@@ -1,6 +1,6 @@
 # React Book List
 
-## A simple app created to use some different technolgies together.
+A simple app created to use some different technolgies together.
 
 ## Built With
 
